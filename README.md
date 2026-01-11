@@ -10,3 +10,9 @@ The camera wiring configuration and the low-level OV7670 camera driver code were
 
 The computer–camera interaction logic, data processing, and system integration were implemented independently for this project.
 
+
+![Project Setup](images/project_setup.jpg)
+
+Demonstration video link:-
+https://drive.google.com/drive/folders/1OIhej4B2XKUGvC6GGtaiLSPV4_49yHhS?usp=drive_link
+
